@@ -1,0 +1,6 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import "assets/bootstrap-five/bootstrap.min.css" ;
+@import "assets/style.css" ;
